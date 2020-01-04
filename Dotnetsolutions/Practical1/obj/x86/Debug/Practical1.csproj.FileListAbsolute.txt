@@ -1,0 +1,4 @@
+c:\users\student\documents\visual studio 2010\Projects\Dotnetsolutions\Practical1\bin\Debug\Practical1.exe
+c:\users\student\documents\visual studio 2010\Projects\Dotnetsolutions\Practical1\bin\Debug\Practical1.pdb
+c:\users\student\documents\visual studio 2010\Projects\Dotnetsolutions\Practical1\obj\x86\Debug\Practical1.exe
+c:\users\student\documents\visual studio 2010\Projects\Dotnetsolutions\Practical1\obj\x86\Debug\Practical1.pdb
